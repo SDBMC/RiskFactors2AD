@@ -9,6 +9,8 @@ We explore causal relationships between 298 GWASes across multiple phenotypes ve
 
 **[Database]Full documentation available here:** [https://whve.gitbook.io/riskad](https://whve.gitbook.io/riskad)
 
+**[Database website backed up on github]**(https://github.com/whve/RFforAD/blob/master/SUMMARY.md) 
+
 
 
 
