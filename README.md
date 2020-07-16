@@ -1,6 +1,6 @@
-# [RiskFactors2AD](https://whve.gitbook.io/riskad)
 
-# The AlzRisk Research Resource
+# [The AlzRisk Research Resource](https://whve.gitbook.io/riskad)
+
 
 Alzheimer's disease (AD) has become the most common of the progressive neurodegenerative diseases with the steadily increasing prevalence and great difficulties in the pathogenesis analysis of AD presently. Although some encouraging progress have been made in understanding the genetic architecture underlying AD, developing phenotypic traits that predispose or protect individuals to disease remain inconclusive and still require further research. The availability of large amounts of genome wide association data across varied traits affords the opportunity to investigate the relationship between myriad traits and AD. Mendelian randomization (MR) is a method that uses genetic variants as proxies for modifiable risk factors to estimate the correlation from causation with known genetic determinants of disease conditions, which could overcome unmeasurable confusion and reverse causality in observational studies. By combining single nucleotide polymorphisms (SNPs) of AD with exposure factors and adopting Two-sample MR randomization methods, we established an online database that can be used to assess evidence of causality where observational associations exist. 
 
